@@ -17,3 +17,6 @@ El presente repositorio contiene:
 - Un .csv con el set de datos original
 - Un .pdf con el informe creado en Deepnote
 ​
+
+
+Link al trabajo: https://deepnote.com/@trabajo-practico-2-4ce9/Trabajo-Practico-2-7225b976-9eac-4dff-bb40-5bbe3004a7cd
